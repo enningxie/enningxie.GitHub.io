@@ -1,3 +1,8 @@
+---
+layout: post 
+title: Blogging Like a Hacker  
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/enningxie/enningxie.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -36,5 +41,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-![image-20210226160201806](assets/image-20210226160201806.png)
+![image-20210226160201806](_posts/assets/image-20210226160201806.png)
 
